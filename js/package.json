@@ -1,5 +1,5 @@
 {
-  "name": "twitter-text",
+  "name": "@schemelisp/twitter-text",
   "description": "official twitter text linkification",
   "version": "3.2.0",
   "main": "dist/index.js",
@@ -12,6 +12,9 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/twitter/twitter-text.git"
+  },
+  "publishConfig": {
+    "access": "public"
   },
   "devDependencies": {
     "@babel/cli": "^7.4.0",
