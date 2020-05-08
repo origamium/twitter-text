@@ -1,7 +1,7 @@
 {
   "name": "@schemelisp/twitter-text",
   "description": "official twitter text linkification",
-  "version": "3.2.0",
+  "version": "3.2.1",
   "main": "dist/index.js",
   "module": "dist/esm",
   "files": [
