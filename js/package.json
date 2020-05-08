@@ -1,7 +1,7 @@
 {
   "name": "twitter-text",
   "description": "official twitter text linkification",
-  "version": "3.1.0",
+  "version": "3.2.0",
   "main": "dist/index.js",
   "module": "dist/esm",
   "files": [
@@ -57,7 +57,7 @@
   },
   "dependencies": {
     "@babel/runtime": "^7.3.1",
-    "core-js": "^2.5.0",
+    "core-js": "^3.6.5",
     "punycode": "1.4.1",
     "twemoji-parser": "^11.0.2"
   }
